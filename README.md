@@ -9,3 +9,5 @@ aprsc - an APRS-IS server in C
 aprsc (pronounced a-purrs-c) is a plain APRS-IS server intended to be used on the core and Tier2 APRS-IS servers. It is written in the C language, and it runs on Linux and Unix servers.
 
 If you need igate or other radio-interfacing features, aprsc is not for you.
+
+http://he.fi/aprsc/
