@@ -14,3 +14,12 @@ aprsc (pronounced a-purrs-c) is a plain APRS-IS server intended to be used on th
 If you need igate or other radio-interfacing features, aprsc is not for you.
 
 http://he.fi/aprsc/
+
+Steps,
+
+1. Download package
+2. install libwww-perl
+3. dpkg -i <packagefullname.deb>
+
+   ![image](https://github.com/9M2PJU/Aprsc-2.1.14-Package-For-Raspberry-Pi/assets/991353/b583a051-a7d1-46c2-af51-a8f3dd9cd235)
+
