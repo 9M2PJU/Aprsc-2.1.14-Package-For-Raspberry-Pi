@@ -24,6 +24,12 @@ Steps,
 
 ![image](https://github.com/9M2PJU/Aprsc-2.1.14-Package-For-Raspberry-Pi/assets/991353/d1d389da-e6c6-4634-bb4b-ef6e976d0bbf)
 
+important file and folder,
+
+1. /opt/aprsc
+2. /opt/aprsc/etc/aprs.conf
+3. /etc/default/
+
 
    
 
